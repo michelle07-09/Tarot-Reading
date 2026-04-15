@@ -4,6 +4,12 @@ A beautiful, interactive tarot card reading web application built with React and
 
 ![Tarot Reader](https://img.shields.io/badge/React-18.2-blue) ![Vite](https://img.shields.io/badge/Vite-5.0-purple) ![License](https://img.shields.io/badge/License-MIT-green)
 
+## 🚀 Live Demo
+
+**[Try the Tarot Reader Now!](https://magical-starlight-702c3b.netlify.app/)**
+
+Visit the live app deployed on Netlify to get your reading instantly.
+
 ## ✨ Features
 
 - **🎴 Complete 78-Card Deck** - All Major Arcana and Minor Arcana suits (Wands, Cups, Swords, Pentacles)
